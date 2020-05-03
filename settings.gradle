@@ -1,0 +1,2 @@
+rootProject.name='Exo2sms'
+include ':app'
