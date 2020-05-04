@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             SmsManager smsManager = SmsManager.getDefault();
             smsManager.sendTextMessage(phoneNumber, null, Message, null, null);
 
-            Toast.makeText(this, "Message Sent", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Message envoyé !! :-)", Toast.LENGTH_SHORT).show();
         }
         else {
             Toast.makeText(this, "Please enter number or Message ! ", Toast.LENGTH_SHORT).show();
