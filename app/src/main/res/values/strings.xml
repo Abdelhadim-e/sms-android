@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Exo2sms</string>
+    <string name="enter_phone_number">Enter phone number</string>
 </resources>
