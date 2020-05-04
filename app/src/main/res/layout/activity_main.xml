@@ -17,6 +17,7 @@
         android:hint="Enter u number"
         android:layout_marginTop="10dp"
         android:textSize="22sp"
+        android:inputType="phone"
         android:id="@+id/txt_phone_number"
 
         />
